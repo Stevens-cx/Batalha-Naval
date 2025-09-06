@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Trabalho de Batalha Naval
+    // Trabalho de Batalha Naval - Parte 1
     // Criando um tabuleiro 5x5 com dois navios:
     // - Um navio na vertical
     // - Um navio na horizontal
